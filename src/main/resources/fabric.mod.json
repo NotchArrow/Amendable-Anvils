@@ -3,15 +3,15 @@
 	"id": "amendable-anvils",
 	"version": "${version}",
 	"name": "Amendable Anvils",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Makes anvils repairable with iron ingots.",
 	"authors": [
-		"Me!"
+		"NotchArrow"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/amendable-anvils/icon.png",
 	"environment": "*",
 	"entrypoints": {
